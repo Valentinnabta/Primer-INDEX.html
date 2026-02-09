@@ -1,5 +1,3 @@
-# Primer-INDEX.html
-Primer INDEX.HTML
 <!doctype html>
 <html lang="es">
   <head>
